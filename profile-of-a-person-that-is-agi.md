@@ -4,7 +4,7 @@
 **Author:** Joel Robinson
 **Repository:** jtrthehax/the-profile-of-a-person-that-is-agi
 **Status:** Draft — adversarial review pending
-**DOI:** Pending Zenodo registration
+**DOI:** doi.org/10.5281/zenodo.21921714
 
 ## Section 1: The Misdefinition of AGI
 
