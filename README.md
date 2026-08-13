@@ -2,7 +2,7 @@
 
 **Author:** Joel Robinson  
 **Status:** Published  
-**DOI:** [link once registered]
+**DOI:** 10.5281/zenodo.21921714
 
 ## What This Paper Argues
 
@@ -25,4 +25,4 @@ and the falsification conditions.
 ## Cite As
 
 Robinson, J. (2026). *The Profile of a Person That Is AGI.* 
-DOI: [pending]
+DOI: 10.5281/zenodo.21921714
