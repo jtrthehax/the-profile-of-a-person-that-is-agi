@@ -1,2 +1,28 @@
-# the-profile-of-a-person-that-is-agi
-AGI as a system property: right-hemisphere pattern matching +  deep inference + externalized memory. Why the field is hiring  for the wrong profile — and what happens when scaling hits its ceiling.
+# The Profile of a Person That Is AGI
+
+**Author:** Joel Robinson  
+**Status:** Published  
+**DOI:** [link once registered]
+
+## What This Paper Argues
+
+AGI is not a model property. It is a system property requiring a 
+specific human substrate — right-hemisphere pattern matching — 
+combined with AI deep inference and externalized memory. No 
+component is sufficient alone.
+
+The field's hiring process systematically screens out the substrate 
+it needs. This paper specifies the profile, the measurement protocols, 
+and the falsification conditions.
+
+## Related Work
+
+- Unified Regulatory Model — DOI: 10.5281/zenodo.20417459
+- Hallucinations Are Not Random — DOI: 10.5281/zenodo.21244811
+- The Ghost in the Scaffolding — DOI: 10.5281/zenodo.21362260
+- Earned Autonomy — DOI: [pending]
+
+## Cite As
+
+Robinson, J. (2026). *The Profile of a Person That Is AGI.* 
+DOI: [pending]
